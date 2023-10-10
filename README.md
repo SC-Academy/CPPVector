@@ -84,7 +84,7 @@ int main() {
 
 * `numbers.clear();` clears the vector, removing all elements.
 
-### License
-This code is licensed under the MIT License.
+## License
+This project is licensed under the MIT License. For more information, please see the LICENSE file.
 
 
